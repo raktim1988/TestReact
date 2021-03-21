@@ -6,6 +6,8 @@ function App() {
     <>
       <ToDoList/> 
       <input type = "text" />
+      <input type ="button" value ="Check me"/>
+      <input type ="button" value ="ToDoList"/>
     </>
 
   );
